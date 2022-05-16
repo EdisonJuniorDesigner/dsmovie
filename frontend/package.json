@@ -1,6 +1,6 @@
 {
     "name": "frontend",
-    "overrides": {
+    "resolution": {
         "autoprefixer": "10.4.5"
     },
     "version": "0.1.0",
